@@ -1,4 +1,4 @@
-# ljus html uppgift
+# Trafikljus html uppgift
 
 Ladda ned projektet till en .zip
 Packa upp till en mapp
